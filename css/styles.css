@@ -146,7 +146,7 @@ flex-shrink: 0;
     background-color:#2F303A ;
 }
 .hero-section{
-        background:linear-gradient(rgba(47, 48, 58, 0.40), rgba(47, 48, 58, 0.40)),  url('./images/hero-image.png') ;
+        background:linear-gradient(rgba(47, 48, 58, 0.40), rgba(47, 48, 58, 0.40)),  url('../images/hero-image.png') ;
     }
     
 .hero-heading{
