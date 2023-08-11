@@ -30,8 +30,8 @@ letter-spacing: 0.28px;;
   
   }
 
-  .main-navigation:focus,
-.main-navigation:hover {
+  .main-navigation:hover,
+.main-navigation:focus {
     color: #2196F3;
 }
   .hero-section{
