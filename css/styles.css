@@ -140,7 +140,14 @@ flex-shrink: 0;
     background-color:#2F303A ;
 }
 .hero-section{
-        background:linear-gradient(rgba(47, 48, 58, 0.40), rgba(47, 48, 58, 0.40)),  url('/images/hero-image.jpg') ;
+         align-items: center;
+  background: linear-gradient(rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)),
+    url("../images/hero-image.jpg");
+  display: flex;
+  flex-direction: column;
+  height: 600px;
+  justify-content: center;
+  width: 1600px;
     }
     
 .hero-heading{
