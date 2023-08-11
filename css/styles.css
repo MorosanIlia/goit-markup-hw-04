@@ -33,12 +33,6 @@ letter-spacing: 0.28px;;
   .main-navigation:focus,
 .main-navigation:hover {
     color: #2196F3;
-    font-family: Roboto;
-    font-size: 14px;
-    font-style: normal;
-    font-weight: 500;
-    line-height: normal;
-    letter-spacing: 0.28px;
 }
   .hero-section{
 width: 1600px;
@@ -146,7 +140,7 @@ flex-shrink: 0;
     background-color:#2F303A ;
 }
 .hero-section{
-        background:linear-gradient(rgba(47, 48, 58, 0.40), rgba(47, 48, 58, 0.40)),  url('../images/hero-image.jpg') ;
+        background:linear-gradient(rgba(47, 48, 58, 0.40), rgba(47, 48, 58, 0.40)),  url('images/hero-image.jpg') ;
     }
     
 .hero-heading{
